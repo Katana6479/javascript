@@ -1,6 +1,6 @@
 {
   "name": "airbnb-style",
-  "version": "1.2.7",
+  "version": "1.2.6",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
